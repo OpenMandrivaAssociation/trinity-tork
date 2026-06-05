@@ -18,7 +18,7 @@
 
 Name:		trinity-%{tde_pkg}
 Version:	14.1.6
-Release:	1
+Release:	2
 Summary:	Anonymity Manager for TDE
 Group:		Applications/Internet
 URL:		sourceforge.net/projects/tolrk/
